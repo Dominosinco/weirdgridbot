@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"PlayerJoin","temp":"member","event-type":"6","actions":[{"info":"0","find":"533765809475158016","storage":"1","varName":"channel","name":"Find Channel"},{"info":"0","find":"&385578533097046026","storage":"1","varName":"role","name":"Find Role"},{"member":"2","varName2":"${tempVars(\"member\")}","role":"3","varName":"role","name":"Add Member Role"},{"channel":"5","varName":"channel","message":"Welcome, ${tempVars(\"member\")} to the server!","storage":"0","varName2":"","name":"Send Message"}]}]
